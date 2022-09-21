@@ -3,9 +3,6 @@
     box-sizing: border-box;
 }
 .whole-page {
-    align-items: center;
     width: 570px;
-    display: flex;
-    flex-direction: column;
-    margin: auto;
+    margin: 0 auto;
 }
