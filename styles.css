@@ -1,0 +1,8 @@
+*{
+    text-align: center; 
+    box-sizing: border-box;
+}
+.whole-page {
+    width: 570px;
+    margin: 0 auto;
+}
